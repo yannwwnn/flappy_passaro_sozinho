@@ -9,5 +9,3 @@ image_index = 1;
 
 // Da play na animação da sprite do player
 image_speed = 1;
-
-

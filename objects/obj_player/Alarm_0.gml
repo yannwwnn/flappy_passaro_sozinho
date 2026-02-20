@@ -2,4 +2,4 @@
 room_restart();
 
 // O player não está mais morto
-global.morreu = false;
+global.perdeu = false;

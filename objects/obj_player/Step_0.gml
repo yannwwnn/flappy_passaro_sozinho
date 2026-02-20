@@ -1,5 +1,5 @@
 // Se o player morreu
-if (global.morreu)
+if (global.perdeu)
 {
 	// Fazendo uma animação de morte
 	hspeed = -2;

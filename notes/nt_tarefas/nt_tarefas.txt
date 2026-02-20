@@ -48,3 +48,14 @@ Criando o player
 	Garantindo que ele só use o impulso depois de bater as asas - FEITO
 
 Criando a Árvore
+	Importando o sprite da árvore - FEITO
+	Criando o obj da árvore - FEITO
+	Fazendo ela se movimentar para esquerda - FEITO
+	Fazendo que quando o player colidir com ela ele morra - FEITO
+
+Criando um spawner de árvore
+	Criando o obj do Spawner
+	criando um alarme que vai criar a instância da árvore
+	sempre que a árvore sair pela esquerda, ela vai ser destruída
+	
+	
