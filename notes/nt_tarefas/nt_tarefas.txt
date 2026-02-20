@@ -1,0 +1,39 @@
+Quantas telas existem no jogo?
+- Menu
+- Partida
+- Loja
+
+O que são essas telas?
+- Menu
+	Onde o jogador decide se vai jogar, vai para loja ou vai desativar e ativar os efeitos
+- Partida 
+	Onde o jogo base acontece
+- Loja
+	Onde o jogador pode comprar e trocar suas skins
+
+Qual elementos compõe essas telas?
+- Menu
+	Título do jogo
+	Fundo (em movimento)
+	Botão de jogar
+	Botão da loja
+	Botão que desliga e liga os efeitos
+	
+Qual o fluxo do jogo?
+Menu > Jogar > Menu > loja > Menu > Jogar > (...)
+
+Qual o objetivo do jogo?
+Jogar e coletar os itens para desbloquear novas skins
+
+Que obstáculos estão impedindo o jogador de realizar seu objetivo?
+Árvores e pássaros inimigos se movimentando na direção do jogador
+
+Que regras estão definindo como o jogo vai ser jogado?
+O cenário e os inimigos aumentam sua velocidade a cada aumento de pontuação
+O player aperta o botão e da um impulso para cima, ou seja, só controla o movimento vertical
+Quando o player toca o inimigo ou a árvore, ele perde
+Quando o player toca o peixe, ele coleta ele
+
+
+Explique como o jogo é jogado (como ele deveria ser jogado)
+O player usa o espaço pra se impulsionar pra cima para desviar dos obstáculos e coletar os coletáveis

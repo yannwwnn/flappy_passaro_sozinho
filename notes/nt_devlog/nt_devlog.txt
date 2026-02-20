@@ -1,0 +1,4 @@
+20/02/2026 - 11:29
+Comecei a fazer o jogo pelo início: analisei cada tela, defini as regras e cada elemento das rooms.
+Vou começar a programar pela gameplay em si, depois faço o menu, a loja e essas coisas.
+Vou dar o primeiro commit e vou começar a trabalhar o movimento do background.
