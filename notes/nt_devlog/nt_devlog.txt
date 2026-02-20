@@ -8,3 +8,11 @@ Fiz a programação básica do player. Agora ele é afetado pela gravidade, cons
 no momento adequado e morre quando encosta nas bordas verticais da room.
 Criei uma função que cuida desse sistema de morte, agora é só usar ela. 
 Vou dar um commit.
+
+15:04
+Criei a árvore e coloquei ela na room. Fiz o sistema de movimentação dela.
+Toda vez que o player acerta ela, ele morre e a velocidade dela e do fundo param.
+
+15:33
+Criei o spawner da árvore. Fiz um obj level e o alarm 0 dele é responsável em spawnar as árvores.
+Ela spawna em uma altura aleatória, espelhada para um lado aleatório e em um período aleatório entre 2 a 5 segundos.

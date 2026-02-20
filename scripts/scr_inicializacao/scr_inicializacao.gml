@@ -1,4 +1,7 @@
 #region Definindo variáveis globais
+// Pegando o fps do jogo
+global.fps = game_get_speed(gamespeed_fps);
+
 // Definindo se o player já perdeu
 global.perdeu = false;
 
@@ -18,7 +21,7 @@ function morre_player()
 	vspeed = -5;
 	
 	// Colocando um alarme para tocar daqui a 1 segundo
-	alarm[0] = game_get_speed(gamespeed_fps) * 1;
+	alarm[0] = global.fps * 1;
 	
 	// Setando a speed do fundo para 0
 	layer_hspeed("Reflexo_arvore", 0);

@@ -54,8 +54,9 @@ Criando a Árvore
 	Fazendo que quando o player colidir com ela ele morra - FEITO
 
 Criando um spawner de árvore
-	Criando o obj do Spawner
-	criando um alarme que vai criar a instância da árvore
-	sempre que a árvore sair pela esquerda, ela vai ser destruída
+	Criando o obj do Spawner - FEITO
+	criando um alarme que vai criar a instância da árvore - FEITO
+	sempre que a árvore sair pela esquerda, ela vai ser destruída - FEITO
+
 	
 	
