@@ -2,3 +2,9 @@
 Comecei a fazer o jogo pelo início: analisei cada tela, defini as regras e cada elemento das rooms.
 Vou começar a programar pela gameplay em si, depois faço o menu, a loja e essas coisas.
 Vou dar o primeiro commit e vou começar a trabalhar o movimento do background.
+
+13:43
+Fiz a programação básica do player. Agora ele é afetado pela gravidade, consegue dar impulsos
+no momento adequado e morre quando encosta nas bordas verticais da room.
+Criei uma função que cuida desse sistema de morte, agora é só usar ela. 
+Vou dar um commit.

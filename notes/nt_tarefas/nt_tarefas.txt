@@ -37,3 +37,14 @@ Quando o player toca o peixe, ele coleta ele
 
 Explique como o jogo é jogado (como ele deveria ser jogado)
 O player usa o espaço pra se impulsionar pra cima para desviar dos obstáculos e coletar os coletáveis
+
+== ETAPAS ==
+Criando o player
+	Importando as sprites dos pássaros - FEITO
+	Criando o obj do player - FEITO
+	Fazendo o player ser afetado pela gravidade - FEITO
+	Definindo o impulso do player quando ele aperta Espaço - FEITO
+	Corrigindo a animação Das sprites - FEITO
+	Garantindo que ele só use o impulso depois de bater as asas - FEITO
+
+Criando a Árvore
