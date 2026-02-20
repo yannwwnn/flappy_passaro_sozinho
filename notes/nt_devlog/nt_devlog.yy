@@ -1,0 +1,11 @@
+{
+  "$GMNotes":"v1",
+  "%Name":"nt_devlog",
+  "name":"nt_devlog",
+  "parent":{
+    "name":"Notes",
+    "path":"folders/Notes.yy",
+  },
+  "resourceType":"GMNotes",
+  "resourceVersion":"2.0",
+}
